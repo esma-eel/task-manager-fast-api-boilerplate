@@ -283,6 +283,13 @@ ACCESS_TOKEN_EXPIRE_MINUTES=30
 REFRESH_TOKEN_EXPIRE_DAYS=7
 ```
 
+# Live address
+I used render.com to deploy this project for test
+the current available address is:
+https://task-manager-fast-api-boilerplate.onrender.com
+https://task-manager-fast-api-boilerplate.onrender.com/docs
+
+Note: you have to refresh multiple times in order to see docs for example couse this is on free plan
 ---
 
 # License
